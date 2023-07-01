@@ -12,7 +12,7 @@
 * 🦫 I maintain [jolicode/castor](https://github.com/jolicode/castor)
 * 💻 I maintain [jolicode/jolinotif](https://github.com/jolicode/jolinotif)
 * 🐟 I maintain [jolicode/docker-starter](https://github.com/jolicode/docker-starter)
-* #️⃣ I maintain [jolicode/slack-php-api](https://github.com/jolicode/jolicode/slack-php-api)
+* #️⃣ I maintain [jolicode/slack-php-api](https://github.com/jolicode/slack-php-api)
 * 📓 I maintain [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs)
 * 😛 I maintain [jolicode/GifExceptionBundle](https://github.com/jolicode/GifExceptionBundle)
 * and I contribute to many other projects
